@@ -74,4 +74,4 @@ async def on_message(message):
 
 
 #########################################################################################
-client.run('OTQ3ODc2NzQ0OTY1MjcxNTgy.YhzpAg.JR9T3uC3JKIY2qcQTAfI7LDZb3k')
+client.run('token')
